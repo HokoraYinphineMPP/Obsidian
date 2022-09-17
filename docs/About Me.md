@@ -9,7 +9,6 @@ Currently I'm focusing on getting a B.A. for Computer Systems at [CSUSB](https:/
 
 I spend most of my time on Discord [![Add me on Discord!](https://media.discordapp.net/attachments/803186540359450664/1020532660008910919/discord.png)](https://discord.com/users/221417731776446467 "Add me on Discord!") so the best way to [contact me is through Discord](https://discord.com/users/221417731776446467)!
 
+https://media.discordapp.net/attachments/803186540359450664/1020574565581213718/unknown.png
 
-
-
-[Home](https://hokorayinphinempp.github.io/Obsidian/)
+[![Go back...?](https://media.discordapp.net/attachments/803186540359450664/1020574565581213718/unknown.png)](https://hokorayinphinempp.github.io/Obsidian/ "Go back...?") [Home](https://hokorayinphinempp.github.io/Obsidian/)

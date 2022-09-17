@@ -226,3 +226,8 @@ arrange k
 $P(n,k)$ or (Choose k from n)\*(order the k we picked)
 $P^n_k=\frac{n!}{(n-k)!}$
 $\frac{n!}{(n-k)!k!}$
+
+
+
+
+[![Go back...?](https://media.discordapp.net/attachments/803186540359450664/1020574565581213718/unknown.png)](https://hokorayinphinempp.github.io/Obsidian/ "Go back...?") [Home](https://hokorayinphinempp.github.io/Obsidian/)
